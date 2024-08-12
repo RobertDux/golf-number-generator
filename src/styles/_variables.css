@@ -1,0 +1,10 @@
+:root {
+  --primary: #1ebdb5;
+  --blue: #111c67;
+  --darkblue: #0b165c;
+  --overlay: rgba(17; 28; 103; 0.75);
+  --lightgray: #efefef;
+
+  --font-mono: "Overpass Mono", monospace;
+  --font-sans-serif: "Overpass", sans-serif;
+}
